@@ -1,2 +1,3 @@
 # hello-world
-learning git
+
+i hate cs
